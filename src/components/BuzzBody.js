@@ -149,6 +149,10 @@ class BuzzBody extends HTMLElement {
           0 0 0 2px #73B23B;
       }
 
+      .big.button:active {
+        background: #900;
+      }
+
       .sticker {
         background: #FCCA07;
         width: 30px;
